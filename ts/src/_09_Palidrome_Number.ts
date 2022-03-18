@@ -10,9 +10,9 @@ function isPalindrome_1(x: number): boolean {
 
 function isPalindrome_2(x: number): boolean {
     const str = x.toString().split('')
-    let right: string | undefined, left: string | undefined
     while(true) {
-        [right, left] = [str.pop(), str.shift()]
+        const right = str.pop()
+        const left = str.shift()
         if (right === undefined || left === undefined ) {
             break
         }
