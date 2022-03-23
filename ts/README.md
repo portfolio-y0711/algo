@@ -5,10 +5,14 @@
 
 - Palindrome Number
 
-    - [문제](https://leetcode.com/problems/palindrome-number/) / [풀이](./src/_09_Palidrome_Number.ts)
+    - [문제](./resource/_09_Palidrome_Number.md) / [풀이](./src/_09_Palidrome_Number.ts)
 
-    - [문제](https://leetcode.com/problems/roman-to-integer/) / [풀이](./src/_13_Roman_to_Integer.ts)
+    - [문제](./resource/_13_Roman_to_Integer.md) / [풀이](./src/_13_Roman_to_Integer.ts)
 
-    - [문제](https://leetcode.com/problems/valid-parentheses/) / [풀이](./src/_20_Valid_Parentheses.ts)
+    - [문제](./resource/_20_Valid_Parentheses.md) / [풀이](./src/_20_Valid_Parentheses.ts)
 
-    - [문제](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) / [풀이](./src/_26_Remove_Duplicates_from_Sorted_Array.ts)
+    - [문제](./resource/_26_Remove_Duplicates_from_Sorted_Array.md) / [풀이](./src/_26_Remove_Duplicates_from_Sorted_Array.ts)
+
+    - [문제](./resource/_28_Implement_strStr.md) / [풀이](./src/_28_Implement_strStr.ts)
+
+    - [문제](./resource/_35_Search_Insert_Position.md) / [풀이](./src/_35_Search_Insert_Position.ts)
