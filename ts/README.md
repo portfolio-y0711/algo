@@ -16,3 +16,5 @@
     - [문제](./resource/_28_Implement_strStr.md) / [풀이](./src/_28_Implement_strStr.ts)
 
     - [문제](./resource/_35_Search_Insert_Position.md) / [풀이](./src/_35_Search_Insert_Position.ts)
+
+    - [문제](./resource/_53_Maximum_Subarray.md) / [풀이](./src/_53_Maximum_Subarray.ts)
