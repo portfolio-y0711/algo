@@ -20,3 +20,8 @@
     - _53_Maximum_Subarray [문제](./resource/_53_Maximum_Subarray.md) / [풀이](./src/_53_Maximum_Subarray.ts)
 
     - _58_Length_of_Last_Word [문제](./resource/_58_Length_of_Last_Word.md) / [풀이](./src/_58_Length_of_Last_Word.ts)
+
+
+    - _66_Plus_One [문제](./resource/_66_Plus_One.md) / [풀이](./src/_66_Plus_One.ts)
+
+    - _66_Plus_One_To_Nine / [풀이](./src/_66_Plus_One_To_Nine.ts)
