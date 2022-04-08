@@ -28,6 +28,8 @@
 
     - _70_Climbing_Stairs [문제](./resource/_70_Climbing_Stairs.md) / [풀이](./src/_70_Climbing_Stairs.ts)
 
+    - _83_Remove_Duplicates_from_Sorted_List [문제](./resource/_83_Remove_Duplicates_from_Sorted_List.md) / [풀이](./src/_83_Remove_Duplicates_from_Sorted_List.ts)
+
     - _94_Binary_Tree_Inorder_Traversal [문제](./resource/_94_Binary_Tree_Inorder_Traversal.md) / [풀이](./src/_94_Binary_Tree_Inorder_Traversal.ts)
 
     - _100_Same_Tree [문제](./resource/_100_Same_Tree.md) / [풀이](./src/_100_Same_Tree.ts)
