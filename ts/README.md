@@ -37,3 +37,5 @@
     - _104_Maximum_Depth_of_Binary_Tree [문제](./resource/_104_Maximum_Depth_of_Binary_Tree.md) / [풀이](./src/_104_Maximum_Depth_of_Binary_Tree.ts)
 
     - _110_Balanced_Binary_Tree [문제](./resource/_110_Balanced_Binary_Tree.md) / [풀이](./src/_110_Balanced_Binary_Tree.ts)
+
+    - _111_Minimum_Depth_of_Binary_Tree [문제](./resource/_111_Minimum_Depth_of_Binary_Tree.md) / [풀이](./src/_111_Minimum_Depth_of_Binary_Tree.ts)
