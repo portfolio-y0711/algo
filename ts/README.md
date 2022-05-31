@@ -39,3 +39,19 @@
     - _110_Balanced_Binary_Tree [문제](./resource/_110_Balanced_Binary_Tree.md) / [풀이](./src/_110_Balanced_Binary_Tree.ts)
 
     - _111_Minimum_Depth_of_Binary_Tree [문제](./resource/_111_Minimum_Depth_of_Binary_Tree.md) / [풀이](./src/_111_Minimum_Depth_of_Binary_Tree.ts)
+
+    - _121_Best_Time_to_Buy_and_Sell_Stock [문제](./resource/_121_Best_Time_to_Buy_and_Sell_Stock.md) / [풀이](./src/_121_Best_Time_to_Buy_and_Sell_Stock.ts)
+
+    - _125_Valid_Palindrome [문제](./resource/_125_Valid_Palindrome.md) / [풀이](./src/_125_Valid_Palindrome.ts)
+
+    - _136_Single_Number [문제](./resource/_136_Single_Number.md) / [풀이](./src/_136_Single_Number.ts)
+
+    - _141_Linked_List_Cycle [문제](./resource/_141_Linked_List_Cycle.md) / [풀이](./src/_141_Linked_List_Cycle.ts)
+
+    - _144_Binary_Tree_Preorder_Traversal [문제](./resource/_144_Binary_Tree_Preorder_Traversal.md) / [풀이](./src/_144_Binary_Tree_Preorder_Traversal.ts)
+
+    - _145_Binary_Tree_Postorder_Traversal [문제](./resource/_145_Binary_Tree_Postorder_Traversal.md) / [풀이](./src/_145_Binary_Tree_Postorder_Traversal.ts)
+
+    - _155_Min_Stack [문제](./resource/_155_Min_Stack.md) / [풀이](./src/_155_Min_Stack.ts)
+
+    - _160_Intersection_of_Two_Linked_Lists [문제](./resource/_160_Intersection_of_Two_Linked_Lists.md) / [풀이](./src/_160_Intersection_of_Two_Linked_Lists.ts)
