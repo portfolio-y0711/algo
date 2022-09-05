@@ -5,11 +5,14 @@ import id.algo.Solution_231
 import id.algo.Solution_235
 import id.algo.Solution_257
 import id.algo.Solution_258
+import id.algo.Solution_263
 
 fun main() {
+    val solution = Solution_263()
+    println(solution.isUgly(6))
 
-    val solution = Solution_258()
-    println(solution.addDigits(38))
+//    val solution = Solution_258()
+//    println(solution.addDigits(38))
 
 //    val solution = Solution_257()
 //    println(solution.binaryTreePaths(TreeNode(1).apply {
