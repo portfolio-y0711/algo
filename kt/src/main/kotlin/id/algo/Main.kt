@@ -6,10 +6,14 @@ import id.algo.Solution_235
 import id.algo.Solution_257
 import id.algo.Solution_258
 import id.algo.Solution_263
+import id.algo.Solution_268
 
 fun main() {
-    val solution = Solution_263()
-    println(solution.isUgly(6))
+//    val solution = Solution_268()
+//    println(solution.missingNumber(intArrayOf(3,0,1)))
+
+//    val solution = Solution_263()
+//    println(solution.isUgly(6))
 
 //    val solution = Solution_258()
 //    println(solution.addDigits(38))
