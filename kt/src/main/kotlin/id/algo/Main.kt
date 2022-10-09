@@ -7,8 +7,11 @@ import id.algo.Solution_257
 import id.algo.Solution_258
 import id.algo.Solution_263
 import id.algo.Solution_268
+import id.algo.Solution_278
 
 fun main() {
+    val solution = Solution_278()
+    println(solution.firstBadVersion(5))
 //    val solution = Solution_268()
 //    println(solution.missingNumber(intArrayOf(3,0,1)))
 
