@@ -9,10 +9,13 @@ import id.algo.Solution_263
 import id.algo.Solution_268
 import id.algo.Solution_278
 import id.algo.Solution_283
+import id.algo.Solution_349
 
 fun main() {
-    val solution = Solution_283()
-    println(solution.moveZeroes(intArrayOf(0,1,0,3,12)))
+    val solution = Solution_349().intersection(intArrayOf(1,2,2,1), intArrayOf(2,2))
+    println(solution.toList())
+//    val solution = Solution_283()
+//    println(solution.moveZeroes(intArrayOf(0,1,0,3,12)))
 
 //    val solution = Solution_278()
 //    println(solution.firstBadVersion(5))
