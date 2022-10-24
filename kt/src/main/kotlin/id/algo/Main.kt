@@ -8,10 +8,14 @@ import id.algo.Solution_258
 import id.algo.Solution_263
 import id.algo.Solution_268
 import id.algo.Solution_278
+import id.algo.Solution_283
 
 fun main() {
-    val solution = Solution_278()
-    println(solution.firstBadVersion(5))
+    val solution = Solution_283()
+    println(solution.moveZeroes(intArrayOf(0,1,0,3,12)))
+
+//    val solution = Solution_278()
+//    println(solution.firstBadVersion(5))
 //    val solution = Solution_268()
 //    println(solution.missingNumber(intArrayOf(3,0,1)))
 
