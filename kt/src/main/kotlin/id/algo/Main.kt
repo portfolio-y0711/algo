@@ -11,10 +11,33 @@ import id.algo.Solution_278
 import id.algo.Solution_283
 import id.algo.Solution_349
 import id.algo.Solution_387
+import id.algo.Solution_389
+import id.algo.Solution_434
+import id.algo.Solution_441
+import id.algo.Solution_455
+import id.algo.Solution_459
 
 fun main() {
-    val solution = Solution_387().firstUniqChar("loveleetcode")
-    println(solution)
+    val solution = Solution_459()
+    println(solution.repeatedSubstringPattern("abab"))
+
+//    val solution = Solution_455()
+//    println(solution.findContentChildren(intArrayOf(1,2,3), intArrayOf(1, 2)))
+
+//    val solution = Solution_389()
+//    println(solution.findTheDifference("abcd", "abcde"))
+
+//    val solution = Solution_448()
+//    println(solution.findDisappearedNumbers(intArrayOf(4,3,2,7,8,2,3,1)))
+
+//    val solution = Solution_441()
+//    println(solution.arrangeCoins(5))
+
+//    val solution = Solution_434()
+//    println(solution.countSegments("Hello, my name is John"))
+
+//    val solution = Solution_387().firstUniqChar("loveleetcode")
+//    println(solution)
 
 //    val solution = Solution_349().intersection(intArrayOf(1,2,2,1), intArrayOf(2,2))
 //    println(solution.toList())
